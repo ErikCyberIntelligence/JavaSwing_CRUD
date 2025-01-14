@@ -50,7 +50,7 @@ public class InterfaceDireta extends javax.swing.JFrame {
 
         jLabel1.setFont(new java.awt.Font("Poor Richard", 1, 24)); // NOI18N
         jLabel1.setForeground(new java.awt.Color(51, 204, 0));
-        jLabel1.setText("REGISTRAR COMPRA");
+        jLabel1.setText("REGISTRAR VENDA");
 
         inputVenda.setCursor(new java.awt.Cursor(java.awt.Cursor.TEXT_CURSOR));
         inputVenda.addActionListener(new java.awt.event.ActionListener() {
